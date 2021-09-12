@@ -1,0 +1,13 @@
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\obj\Debug\netcoreapp3.1\Switch.csprojAssemblyReference.cache
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfoInputs.cache
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfo.cs
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\obj\Debug\netcoreapp3.1\Switch.csproj.CoreCompileInputs.cache
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\bin\Debug\netcoreapp3.1\Switch.exe
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\bin\Debug\netcoreapp3.1\Switch.deps.json
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.json
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.dev.json
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\bin\Debug\netcoreapp3.1\Switch.dll
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\bin\Debug\netcoreapp3.1\Switch.pdb
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\obj\Debug\netcoreapp3.1\Switch.dll
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\obj\Debug\netcoreapp3.1\Switch.pdb
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\Switch\obj\Debug\netcoreapp3.1\Switch.genruntimeconfig.cache

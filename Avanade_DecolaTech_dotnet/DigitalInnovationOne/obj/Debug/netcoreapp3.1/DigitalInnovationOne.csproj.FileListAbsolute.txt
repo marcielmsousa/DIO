@@ -1,0 +1,13 @@
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.exe
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.deps.json
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.runtimeconfig.json
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.runtimeconfig.dev.json
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.dll
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.pdb
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.csprojAssemblyReference.cache
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.AssemblyInfo.cs
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.dll
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.pdb
+C:\Users\Marciel\google drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.genruntimeconfig.cache
