@@ -6,6 +6,7 @@ namespace Switch
     {
         static void Main(string[] args)
         {
+            log($"{!!(2==2)}");
             int num = args.Length;
             
             switch (num)
@@ -23,7 +24,7 @@ namespace Switch
                     log("default");
                     log($"{num} argumentos");
                     break;
-            }
+        }
         }
 
         private static void log(String line){
