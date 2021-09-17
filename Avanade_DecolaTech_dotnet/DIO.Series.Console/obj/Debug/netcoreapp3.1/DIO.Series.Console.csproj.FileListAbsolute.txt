@@ -1,0 +1,17 @@
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.csproj.AssemblyReference.cache
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.AssemblyInfoInputs.cache
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.AssemblyInfo.cs
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.csproj.CoreCompileInputs.cache
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.exe
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.deps.json
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.runtimeconfig.json
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.runtimeconfig.dev.json
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.dll
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.pdb
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.csproj.CopyComplete
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.dll
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.pdb
+C:\Users\Marciel\Google Drive\DIO-CURSOS\Avanade_DecolaTech_dotnet\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.genruntimeconfig.cache
